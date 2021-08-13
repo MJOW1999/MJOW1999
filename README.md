@@ -16,15 +16,15 @@ Here are a few of the projects I'm most proud of:
 - [Unity Maths Game](https://github.com/MJOW1999/Unity-Maths-Game) - Prototype of a maths game commissioned by the University of Leicester Maths department (*not sure if it still works*)
 - [FAC2](https://mjow1999.github.io/FAC2/) - My favourite one so far, my second application to Founders & Coders.
 
-## Certifiactes
-- **freeCodeCamp** - JavaScript Algorithms and Data Structures
-- **freeCodeCamp** - Responsive Web Design
+## Certificates
+- **freeCodeCamp** - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mjow1999/javascript-algorithms-and-data-structures)
+- **freeCodeCamp** - [Responsive Web Design](https://www.freecodecamp.org/certification/mjow1999/responsive-web-design)
 
 ## Profiles 📫
 
 - [LinkedIn](https://www.linkedin.com/in/michael-williams-17a9b81a0/)
-- [freeCodeCamp]()
-- [Codewars]()
+- [freeCodeCamp](https://www.freecodecamp.org/mjow1999)
+- [Codewars](https://www.codewars.com/users/MJOW1999/)
 
 
 <!--
