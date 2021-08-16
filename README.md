@@ -10,6 +10,7 @@ My hobbies include playing and watching football ⚽, gaming 🎮⚔ and learnin
 
 Here are a few of the projects I'm most proud of:
 
+- [Ccolours](https://mjow1999.github.io/Ccolours/) - My [coolors](https://coolors.co/) inspired random colour generator!
 - [Magic the Gathering API](https://fac22.github.io/michaelAlexAPI/) - API website where we can generate a booster for Magic the Gathering game
 - [MEA Robotics](https://fac22.github.io/Michael-Elena-Agency/) - Agency website where you can hire your own robot!
 - [FAC22](https://mjow1999.github.io/FAC22/) - Filled with all of my learnings on Founders & Coders pre-apprenticeship!
